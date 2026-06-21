@@ -1,4 +1,4 @@
-\# Employee Management System - Login Feature
+# Employee Management System - Login & Dashboard Features
 
 
 
